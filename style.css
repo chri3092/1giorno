@@ -1,3 +1,46 @@
 body {
-    background-color: aqua;
+    text-align: center;
+    padding: 0;
+    margin: 0; 
+}
+
+.yellow {
+    background-color: rgb(255, 252, 243);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: solid 2px rgb(255, 240, 198)
+}
+
+main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sally {
+    color: rgb(185, 185, 185);
+    text-align: center;
+}
+
+.featured {
+    border-left: solid 2px rgb(255, 240, 198);
+    padding-left: 15px;
+    text-align: left;
+}
+
+main {
+    text-align: left;
+}
+
+.section2 {
+    border-bottom: solid 2px rgb(203, 203, 249);
+    padding-bottom: 15px;
+}
+
+footer {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+footer {
+    text-align: left;
 }
